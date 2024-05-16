@@ -40,3 +40,10 @@ The mIoU metric serves as a pivotal measure of model efficacy in object detectio
 The Cross Entropy loss function stands as a ubiquitous metric for classification problems, employed to gauge the disparity between the model's predicted distribution and actual labels. This function computes the average loss across all samples, with 'y' representing the ground truth labels and 'y^' denoting the predicted labels by the model.
 
 Leveraging these concepts enables the evaluation of model quality in object detection and image segmentation, alongside the enhancement of model performance through optimized loss function calibration.
+
+
+Ultimately, the code retrieves and showcases images of input data alongside network predictions.
+![image](https://github.com/fmirzadeh99/PSPNet-for-segmentation/assets/169579231/8c815fd5-b052-4d7e-a278-20c06977ba8e)
+
+
+
